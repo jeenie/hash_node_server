@@ -1,0 +1,159 @@
+{
+    "BankUserInfoList": {
+        "ROW": [
+            {
+                "NO": {
+                    "_text": "623"
+                },
+                "COIN_ID": {
+                    "_text": "BTC"
+                },
+                "COIN_NAME": {
+                    "_text": "Bitcoin"
+                },
+                "USD_PRICE": {
+                    "_text": "19299.84"
+                },
+                "REG_DATE": {
+                    "_text": "2020-12-14 12:00:00"
+                }
+            },
+            {
+                "NO": {
+                    "_text": "622"
+                },
+                "COIN_ID": {
+                    "_text": "BTC"
+                },
+                "COIN_NAME": {
+                    "_text": "Bitcoin"
+                },
+                "USD_PRICE": {
+                    "_text": "19153.56"
+                },
+                "REG_DATE": {
+                    "_text": "2020-12-14 06:00:00"
+                }
+            },
+            {
+                "NO": {
+                    "_text": "621"
+                },
+                "COIN_ID": {
+                    "_text": "BTC"
+                },
+                "COIN_NAME": {
+                    "_text": "Bitcoin"
+                },
+                "USD_PRICE": {
+                    "_text": "19292.12"
+                },
+                "REG_DATE": {
+                    "_text": "2020-12-14 00:00:00"
+                }
+            },
+            {
+                "NO": {
+                    "_text": "620"
+                },
+                "COIN_ID": {
+                    "_text": "BTC"
+                },
+                "COIN_NAME": {
+                    "_text": "Bitcoin"
+                },
+                "USD_PRICE": {
+                    "_text": "18812.61"
+                },
+                "REG_DATE": {
+                    "_text": "2020-12-13 12:00:00"
+                }
+            },
+            {
+                "NO": {
+                    "_text": "619"
+                },
+                "COIN_ID": {
+                    "_text": "BTC"
+                },
+                "COIN_NAME": {
+                    "_text": "Bitcoin"
+                },
+                "USD_PRICE": {
+                    "_text": "18376.81"
+                },
+                "REG_DATE": {
+                    "_text": "2020-12-12 18:00:00"
+                }
+            },
+            {
+                "NO": {
+                    "_text": "618"
+                },
+                "COIN_ID": {
+                    "_text": "BTC"
+                },
+                "COIN_NAME": {
+                    "_text": "Bitcoin"
+                },
+                "USD_PRICE": {
+                    "_text": "18129.97522012"
+                },
+                "REG_DATE": {
+                    "_text": "2020-12-12 12:00:01"
+                }
+            },
+            {
+                "NO": {
+                    "_text": "617"
+                },
+                "COIN_ID": {
+                    "_text": "BTC"
+                },
+                "COIN_NAME": {
+                    "_text": "Bitcoin"
+                },
+                "USD_PRICE": {
+                    "_text": "18242.02448764"
+                },
+                "REG_DATE": {
+                    "_text": "2020-12-12 00:00:06"
+                }
+            },
+            {
+                "NO": {
+                    "_text": "616"
+                },
+                "COIN_ID": {
+                    "_text": "BTC"
+                },
+                "COIN_NAME": {
+                    "_text": "Bitcoin"
+                },
+                "USD_PRICE": {
+                    "_text": "17899.99"
+                },
+                "REG_DATE": {
+                    "_text": "2020-12-11 18:00:00"
+                }
+            },
+            {
+                "NO": {
+                    "_text": "615"
+                },
+                "COIN_ID": {
+                    "_text": "BTC"
+                },
+                "COIN_NAME": {
+                    "_text": "Bitcoin"
+                },
+                "USD_PRICE": {
+                    "_text": "18365.78"
+                },
+                "REG_DATE": {
+                    "_text": "2020-12-11 06:00:00"
+                }
+            }
+        ]
+    }
+}

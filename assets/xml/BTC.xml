@@ -1,0 +1,72 @@
+<BankUserInfoList>
+<ROW>
+<NO>623</NO>
+      <COIN_ID>BTC</COIN_ID>
+      <COIN_NAME>Bitcoin</COIN_NAME>
+      <USD_PRICE>19299.84</USD_PRICE>
+      <REG_DATE>2020-12-14 12:00:00</REG_DATE>
+      </ROW>
+<ROW>
+<NO>622</NO>
+      <COIN_ID>BTC</COIN_ID>
+      <COIN_NAME>Bitcoin</COIN_NAME>
+      <USD_PRICE>19153.56</USD_PRICE>
+      <REG_DATE>2020-12-14 06:00:00</REG_DATE>
+      </ROW>
+<ROW>
+<NO>621</NO>
+      <COIN_ID>BTC</COIN_ID>
+      <COIN_NAME>Bitcoin</COIN_NAME>
+      <USD_PRICE>19292.12</USD_PRICE>
+      <REG_DATE>2020-12-14 00:00:00</REG_DATE>
+      </ROW>
+<ROW>
+<NO>620</NO>
+      <COIN_ID>BTC</COIN_ID>
+      <COIN_NAME>Bitcoin</COIN_NAME>
+      <USD_PRICE>18812.61</USD_PRICE>
+      <REG_DATE>2020-12-13 12:00:00</REG_DATE>
+      </ROW>
+<ROW>
+<NO>619</NO>
+      <COIN_ID>BTC</COIN_ID>
+      <COIN_NAME>Bitcoin</COIN_NAME>
+      <USD_PRICE>18376.81</USD_PRICE>
+      <REG_DATE>2020-12-12 18:00:00</REG_DATE>
+      </ROW>
+<ROW>
+<NO>618</NO>
+      <COIN_ID>BTC</COIN_ID>
+      <COIN_NAME>Bitcoin</COIN_NAME>
+      <USD_PRICE>18129.97522012</USD_PRICE>
+      <REG_DATE>2020-12-12 12:00:01</REG_DATE>
+      </ROW>
+<ROW>
+<NO>617</NO>
+      <COIN_ID>BTC</COIN_ID>
+      <COIN_NAME>Bitcoin</COIN_NAME>
+      <USD_PRICE>18242.02448764</USD_PRICE>
+      <REG_DATE>2020-12-12 00:00:06</REG_DATE>
+      </ROW>
+<ROW>
+<NO>616</NO>
+      <COIN_ID>BTC</COIN_ID>
+      <COIN_NAME>Bitcoin</COIN_NAME>
+      <USD_PRICE>17899.99</USD_PRICE>
+      <REG_DATE>2020-12-11 18:00:00</REG_DATE>
+      </ROW>
+<ROW>
+<NO>615</NO>
+      <COIN_ID>BTC</COIN_ID>
+      <COIN_NAME>Bitcoin</COIN_NAME>
+      <USD_PRICE>18365.78</USD_PRICE>
+      <REG_DATE>2020-12-11 06:00:00</REG_DATE>
+      </ROW>
+<ROW>
+<NO></NO>
+      <COIN_ID>undefined</COIN_ID>
+      <COIN_NAME>undefined</COIN_NAME>
+      <USD_PRICE>undefined</USD_PRICE>
+      <REG_DATE>undefined</REG_DATE>
+      </ROW>
+</BankUserInfoList>
